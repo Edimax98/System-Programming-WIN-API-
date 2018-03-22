@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\даниил\documents\visual studio 2015\projects\pr32\pr32\source.cpp(53): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\даниил\documents\visual studio 2015\projects\pr32\pr32\source.cpp(80): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\даниил\documents\visual studio 2015\projects\pr32\pr32\source.cpp(122): warning C4129: p: неизвестная escape-последовательность
+c:\users\даниил\documents\visual studio 2015\projects\pr32\pr32\source.cpp(106): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\даниил\documents\visual studio 2015\projects\pr32\pr32\source.cpp(106): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+c:\users\даниил\documents\visual studio 2015\projects\pr32\pr32\source.cpp(108): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\даниил\documents\visual studio 2015\projects\pr32\pr32\source.cpp(108): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  pr32.vcxproj -> C:\Users\Даниил\Documents\Visual Studio 2015\Projects\pr32\Debug\pr32.exe
+  pr32.vcxproj -> C:\Users\Даниил\Documents\Visual Studio 2015\Projects\pr32\Debug\pr32.pdb (Partial PDB)

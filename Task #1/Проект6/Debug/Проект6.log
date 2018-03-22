@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\даниил\documents\visual studio 2015\projects\dollar\проект6\source.cpp(38): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\даниил\documents\visual studio 2015\projects\dollar\проект6\source.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+  Проект6.vcxproj -> C:\Users\Даниил\Documents\Visual Studio 2015\Projects\dollar\Debug\Проект6.exe
+  Проект6.vcxproj -> C:\Users\Даниил\Documents\Visual Studio 2015\Projects\dollar\Debug\Проект6.pdb (Partial PDB)

@@ -1,0 +1,48 @@
+﻿  Source.cpp
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(64): error C2664: "int wprintf(const wchar_t *const ,...)": невозможно преобразовать аргумент 1 из "const char [25]" в "const wchar_t *const "
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(64): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(65): warning C4554: <<: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(69): error C2664: "int wprintf(const wchar_t *const ,...)": невозможно преобразовать аргумент 1 из "const char [9]" в "const wchar_t *const "
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(69): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(70): error C2664: "int wprintf(const wchar_t *const ,...)": невозможно преобразовать аргумент 1 из "const char [14]" в "const wchar_t *const "
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(70): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(102): error C2664: "int wprintf(const wchar_t *const ,...)": невозможно преобразовать аргумент 1 из "const char [9]" в "const wchar_t *const "
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(102): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(103): error C2664: "int wprintf(const wchar_t *const ,...)": невозможно преобразовать аргумент 1 из "const char [14]" в "const wchar_t *const "
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(103): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(107): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(144): warning C4129: p: неизвестная escape-последовательность
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(144): error C2664: "int wprintf(const wchar_t *const ,...)": невозможно преобразовать аргумент 1 из "const char [10]" в "const wchar_t *const "
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(144): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(145): error C2664: "int wprintf(const wchar_t *const ,...)": невозможно преобразовать аргумент 1 из "const char [19]" в "const wchar_t *const "
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(145): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(148): error C2664: "wchar_t *wcscat(wchar_t *,const wchar_t *)": невозможно преобразовать аргумент 2 из "const char [2]" в "const wchar_t *"
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(148): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(150): error C2664: "int wprintf(const wchar_t *const ,...)": невозможно преобразовать аргумент 1 из "const char [16]" в "const wchar_t *const "
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(150): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(153): error C2664: "wchar_t *wcscat(wchar_t *,const wchar_t *)": невозможно преобразовать аргумент 2 из "const char [2]" в "const wchar_t *"
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(153): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(155): error C2664: "int wprintf(const wchar_t *const ,...)": невозможно преобразовать аргумент 1 из "const char [20]" в "const wchar_t *const "
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(155): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(177): error C3867: "std::vector<TCHAR *,std::allocator<_Ty>>::size": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+          with
+          [
+              _Ty=TCHAR *
+          ]
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(177): error C2446: <: нет преобразования "unsigned int (__thiscall std::vector<TCHAR *,std::allocator<_Ty>>::* )(void) noexcept const" в "int"
+          with
+          [
+              _Ty=TCHAR *
+          ]
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(177): note: Не существует контекста, в котором такое преобразование возможно
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(177): error C2297: <: недопустимо, правый оператор имеет тип "unsigned int (__thiscall std::vector<TCHAR *,std::allocator<_Ty>>::* )(void) noexcept const"
+          with
+          [
+              _Ty=TCHAR *
+          ]
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(128): warning C4474: "wprintf" : для строки формата передано слишком много аргументов
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(128): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(132): warning C4474: "wprintf" : для строки формата передано слишком много аргументов
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(132): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(134): warning C4474: "wprintf" : для строки формата передано слишком много аргументов
+  c:\users\даниил\documents\visual studio 2015\projects\pr52\pr52\source.cpp(134): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
